@@ -7,13 +7,13 @@ Boston, MA features a higher rate of crime compared to the rest of Massachusetts
 
 We used the following Data Sets:
 
-Police Stations: https://data.boston.gov/dataset/boston-police-stations
-Colleges and Universities: https://data.boston.gov/dataset/colleges-and-universities
-Community Centers: https://data.boston.gov/dataset/community-centers
-Private Schools: https://data.boston.gov/dataset/non-public-schools
-Public Schools: https://data.boston.gov/dataset/public-schools
-Street Light Locations: https://data.boston.gov/dataset/streetlight-locations
-Crime Incident Reports: https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
-Property Assessment: https://data.boston.gov/dataset/property-assessment
-Live Street Address Management (SAM): https://data.boston.gov/dataset/live-street-address-management-sam-addresses
-Public Libraries: https://data.boston.gov/dataset/public-libraries
+Police Stations: https://data.boston.gov/dataset/boston-police-stations  
+Colleges and Universities: https://data.boston.gov/dataset/colleges-and-universities  
+Community Centers: https://data.boston.gov/dataset/community-centers  
+Private Schools: https://data.boston.gov/dataset/non-public-schools  
+Public Schools: https://data.boston.gov/dataset/public-schools  
+Street Light Locations: https://data.boston.gov/dataset/streetlight-locations  
+Crime Incident Reports: https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system  
+Property Assessment: https://data.boston.gov/dataset/property-assessment  
+Live Street Address Management (SAM): https://data.boston.gov/dataset/live-street-address-management-sam-addresses  
+Public Libraries: https://data.boston.gov/dataset/public-libraries  
